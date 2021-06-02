@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c815bdbd83982254eb2da5fbe95df910, type: 3}
+  m_Name: Blitzpanzerkampfwagen
+  m_EditorClassIdentifier: 
+  UnitName: Blitzpanzerkampfwagen
+  Description: "L\u2019exp\xE9rimentation avec des prototypes de chars de combat
+    rapides et l\xE9ger, les panzer I et II, aboutit en 1937 \xE0 la premi\xE8re
+    version de la coque du Blitzpanzerkampfwagen I, \xE9quip\xE9 d\u2019armes Tesla
+    exp\xE9rimentales qui offrait une grande puissance de feu sur une zone \xE9tendu,
+    permettant de saturer une zone avec des \xE9clairs mena\xE7ant pour l\u2019infanterie
+    comme pour les blind\xE9s."
+  typeUnite: 6
+  LifeMax: 3
+  ShieldMax: 0
+  AttackRange: 1
+  MoveSpeed: 3
+  CreationCost: 0
+  numberOfUnitToAttack: 0
+  DamageMinimum: 2
+  NumberRangeMin: {x: 0, y: 0}
+  DamageMaximum: 2
+  NumberRangeMax: {x: 0, y: 0}
+  SonAttaque: {fileID: 0}
+  SonDeplacement: {fileID: 0}
+  SonMort: {fileID: 0}
+  VoiceLine: {fileID: 0}
+  Sprite: {fileID: 21300000, guid: 95ad329b9042dd542b15279ba5e6d463, type: 3}
+  CanAttackEmptyTile: 0
+  UsefullToWin: 0
+  IsInRedArmy: 0
+  UnitAttributs: 000000000000000000000000

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c815bdbd83982254eb2da5fbe95df910, type: 3}
+  m_Name: Wolpertinger
+  m_EditorClassIdentifier: 
+  UnitName: Wolpertinger
+  Description: "Ces petites cr\xE9atures sont originaires des plus profondes for\xEAts
+    bavaroises. Cet animal l\xE9gendaire prend l\u2019apparence d\u2019un lapin avec
+    des ailes, des bois et des crocs. Sa petite taille ne l\u2019emp\xEAche pas d\u2019\xEAtre
+    une f\xE9roce machine \xE0 tuer.  Le Wolpertinger est incroyablement difficile
+    \xE0 capturer, en grande partie \xE0 cause du fait qu\u2019il reste cach\xE9
+    tant qu\u2019il n\u2019est pas s\xFBr d\u2019\xE9liminer sa proie. Cependant,
+    en fouillant la For\xEAt Noire, un groupe de scientifiques allemand a trouv\xE9
+    des traces d\u2019Orgone appartenant \xE0 cette cr\xE9ature l\xE9gendaire ainsi
+    que des corps, \xE2g\xE9s. A la suite de plusieurs exp\xE9riences, et gr\xE2ce
+    \xE0 l\u2019utilisation de l\u2019hyperchimie, ils ont r\xE9ussi \xE0 recr\xE9er
+    cette cr\xE9ature tout en la maintenant sous contr\xF4le. L\u2019arm\xE9e allemande
+    \xE0 alors d\xE9cid\xE9 de se servir de ces cr\xE9atures lors de combats en France
+    au d\xE9but de la guerre pour sa rapidit\xE9 et sa dangerosit\xE9.  D\xE9ploy\xE9s
+    pour la premi\xE8re fois sur le champ de bataille en 1940, les allemands les
+    utilisaient pour \xE9carter l\u2019arm\xE9e fran\xE7aise et tenter de les d\xE9passer
+    lors de ce combat dans les Ardennes."
+  typeUnite: 3
+  LifeMax: 2
+  ShieldMax: 0
+  AttackRange: 1
+  MoveSpeed: 2
+  CreationCost: 0
+  numberOfUnitToAttack: 0
+  DamageMinimum: 1
+  NumberRangeMin: {x: 0, y: 0}
+  DamageMaximum: 2
+  NumberRangeMax: {x: 0, y: 0}
+  SonAttaque: {fileID: 0}
+  SonDeplacement: {fileID: 0}
+  SonMort: {fileID: 0}
+  VoiceLine: {fileID: 0}
+  Sprite: {fileID: -6091935173196540234, guid: 17c6e8d7ea8fadb4f962d92728062edd, type: 3}
+  CanAttackEmptyTile: 0
+  UsefullToWin: 0
+  IsInRedArmy: 0
+  UnitAttributs: 000000000000000000000000
